@@ -11,34 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Control Engineering, Technical University of Catalonia·BarcelonaTech, 2022
+* B.S. in Control Engineering, Polytechnical University of Catalonia·BarcelonaTech, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* March 2021 - currently: Research Assistant
+  * MCIA Center Research Electronics, Polytechnical University of Catalonia·BarcelonaTech
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Miguel Delgado and PhD student Ángel Fernandez
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research and Development Intern
+  * Tavil IND
+  * Duties included: GUI creation for the automation of CNC files generations, as well as creating control algorithms for DC engines
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Matlab, C, C++, Java, Python
+%* Skill 2
+%  * Sub-skill 2.1
+%  * Sub-skill 2.2
+%  * Sub-skill 2.3
+%* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+%Publications
+%======
+%  <ul>{% for post in site.publications %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
   
 %Talks
 %======
