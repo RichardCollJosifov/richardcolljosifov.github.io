@@ -17,7 +17,7 @@ Work experience
 ======
 * March 2021 - currently: Research Assistant
   * MCIA Center Research Electronics, Polytechnical University of Catalonia·BarcelonaTech
-  * Duties included: Tagging issues
+  * Duties included: Programming of PLCs for the creation of flexible production lines, whithin the framework of Indsutry 4.0. As well as programming through Node-Red software that would allow the simulation of the plant as well as the interconnection of the physical one with databases in the cloud. 
   * Supervisor: Professor Miguel Delgado and PhD student Ángel Fernandez
 
 * Summer 2021: Research and Development Intern
@@ -27,30 +27,10 @@ Work experience
 Skills
 ======
 * Programming Languages: Matlab, C, C++, Java, Python
-%* Skill 2
-%  * Sub-skill 2.1
-%  * Sub-skill 2.2
-%  * Sub-skill 2.3
-%* Skill 3
 
-%Publications
-%======
-%  <ul>{% for post in site.publications %}
-%    {% include archive-single-cv.html %}
-%  {% endfor %}</ul>
-  
-%Talks
-%======
-%  <ul>{% for post in site.talks %}
-%    {% include archive-single-talk-cv.html %}
-%  {% endfor %}</ul>
-  
-%Teaching
-%======
-%  <ul>{% for post in site.teaching %}
-%    {% include archive-single-cv.html %}
-%  {% endfor %}</ul>
-  
-%Service and leadership
-%======
-%* Currently signed in to 43 different slack teams
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
