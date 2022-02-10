@@ -27,6 +27,7 @@ Work experience
 Skills
 ======
 * Programming Languages: Matlab, C, C++, Java, Python
+* Languages: English (level C2), Catalan (native), Spanish (native)
 
 
 Publications
