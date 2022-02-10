@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Industry 4.0 Laboratory: Cyber-physical Systems, Industrial Internet of Things and Artificial Intelligence"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-paper-industry4-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-05
+venue: 'IEEE 5th International Conference on Industrial Cyber-Physical Systems(ICPS 2022)'
+paperurl: '/files/Industry_4.0_Laboratory.pdf'
+citation: 'Fernandez, A.; Delgado, M.; Valls, J.; Coll, R.; Romeral, L. (2022). &quot;Industry 4.0 Laboratory: Cyber-physical Systems, Industrial Internet of Things and Artificial Intelligence &quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
