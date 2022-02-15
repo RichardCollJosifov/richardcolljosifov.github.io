@@ -8,8 +8,5 @@ venue: 'IEEE 5th International Conference on Industrial Cyber-Physical Systems(I
 paperurl: '/files/Industry_4.0_Laboratory.pdf'
 citation: 'Fernandez, A.; Delgado, M.; Valls, J.; Coll, R.; Romeral, L. (2022). &quot;Industry 4.0 Laboratory: Cyber-physical Systems, Industrial Internet of Things and Artificial Intelligence &quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
