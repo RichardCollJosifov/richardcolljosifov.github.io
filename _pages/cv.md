@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Control Engineering, Polytechnical University of Catalonia·BarcelonaTech, 2022
+* B.S. in Control Engineering, Polytechnic University of Catalonia·BarcelonaTech, 2022
 
 Work experience
 ======
 * March 2021 - currently: Research Assistant
-  * MCIA Center Research Electronics, Polytechnical University of Catalonia·BarcelonaTech
+  * MCIA Center Research Electronics, Polytechnic University of Catalonia·BarcelonaTech
   * Duties included: Programming of PLCs for the creation of flexible production lines, whithin the framework of Indsutry 4.0. As well as programming through Node-Red software that would allow the simulation of the plant as well as the interconnection of the physical one with databases in the cloud. 
   * Supervisor: Professor Miguel Delgado and PhD student Ángel Fernandez
 
