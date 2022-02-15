@@ -9,4 +9,6 @@ paperurl: ' '
 citation: 'Fernandez, A.; Delgado, M.; Valls, J.; Coll, R.; Romeral, L. (2022). &quot;Industry 4.0 Laboratory: Cyber-physical Systems, Industrial Internet of Things and Artificial Intelligence &quot; <i>Journal 1</i>. 1(1).'
 ---
 
+**This paper is currently under peer review.**
+
 [Download paper here](http://richardcolljosifov.github.io/files/Industry_4.0_Laboratory.pdf)
