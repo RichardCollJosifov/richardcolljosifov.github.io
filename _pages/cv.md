@@ -16,8 +16,9 @@ Education
 
 Work experience
 ======
-* March 2021 - currently: Research Assistant
+* March 2021 - March 2022: Research Assistant
   * MCIA Center Research Electronics, Polytechnic University of Catalonia·BarcelonaTech
+  * Receiver of the "Santander Bank - UPC initiation to research grant". 
   * Duties included: Programming of PLCs for the creation of flexible production lines, whithin the framework of Indsutry 4.0. As well as programming through Node-Red software that would allow the simulation of the plant as well as the interconnection of the physical one with databases in the cloud. 
   * Supervisor: Professor Miguel Delgado and PhD student Ángel Fernandez
 
