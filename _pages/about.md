@@ -9,6 +9,8 @@ redirect_from:
 ---
 About me
 ======
-Hi, I am a fourth year Electrical Engineering student focusing in Systems, Control and Robotics. I am currently undertaking my bachelor's thesis (24ECTS) in deep learning based computer vision for street object detection and classification.
+Hi, I am a first year MSc student in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. I will be specializing in "Mathematics of Data Science". 
 
-I am interested in machine learning and data science, and specifically in the mathematics behind these, as well as in the applications of artificial intelligence to robotics.
+Before that I completed a four year BSc in Electrical Engineering focusing in Systems, Control and Robotics. I did my bachelor's thesis (24ECTS) in deep learning based computer vision for aerial view street object detection and classification, which led to a publication at the Spanish Conference "Jornadas de Automática 2022" organized by the Spanish Automatic Control Comitee.
+
+I am interested in applied mathematics and its applications to machine learning and data science.
