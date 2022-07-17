@@ -1,6 +1,5 @@
 ---
-title: "Bachelor's thesis: "Deep learning based computer vision for aerial-view street object detection and classification""
-excerpt: "Bachelor's thesis where YOLOv4 models have been trained and tested. You may find [here]() the thesis."
+title: "Street aerial view dataset with classified objects"
+excerpt: "Dataset extract from VisDrone, validated with a GUI, for the YOLO neural network architectures.<br/>"
 collection: portfolio
 ---
-
