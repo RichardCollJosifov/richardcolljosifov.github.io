@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Control Engineering, Polytechnic University of Catalonia·BarcelonaTech, 2022
+* M.Sc. in Applied and Computational Mathematics, KTH Royal Institute of Technology, 2022-2024.
+* B.Sc. in Control Engineering, Polytechnic University of Catalonia·BarcelonaTech, 2018-2022.
 
 Work experience
 ======
