@@ -10,5 +10,5 @@ paperurl: ' '
 citation: 'Coll-Josifov, R.; Masip-Álvarez, A.; Lavèrnia-Ferrer, D. (2022). &quot;Deep learning classification applied to traffic accidents prediction &quot; <i>Journal 1</i>. 1(1).'
 ---
 
-#[Download paper here](http://richardcolljosifov.github.io/files/Industry_4.0_Laboratory.pdf)
+%[Download paper here](http://richardcolljosifov.github.io/files/Industry_4.0_Laboratory.pdf)
 
