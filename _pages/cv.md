@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 <embed src="https://richardcolljosifov.github.io/CV_English.pdf" type="application/pdf" width="100%" height="600px" />. 
 
-
-<object data="richardcolljosifov.github.io/CV_English.pdf" width="1000" height="1000" type='application/pdf'></object>
-<a href="CV_English.pdf" class="image fit"><img src="" alt=""></a>
+<object data="richardcolljosifov.github.io/CV_English.pdf" width="1000" height="1000" type='application/pdf'/>
 
 Education
 ======
