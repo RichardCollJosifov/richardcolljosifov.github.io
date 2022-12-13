@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="richardcolljosifov.github.io/CV_English.pdf" type="application/pdf" width="100%" height="600px" />. 
+<embed src="https://richardcolljosifov.github.io/CV_English.pdf" type="application/pdf" width="100%" height="600px" />. 
 
 
 <object data="richardcolljosifov.github.io/CV_English.pdf" width="1000" height="1000" type='application/pdf'></object>
