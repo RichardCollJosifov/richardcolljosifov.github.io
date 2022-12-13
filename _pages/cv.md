@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: /CV_English.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+<a href="CV_English.pdf" class="image fit"><img src="" alt=""></a>
 
 Education
 ======
