@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<object data="richardcolljosifov.github.io/CV_English.pdf" width="1000" height="1000" type='application/pdf'></object>
 <a href="CV_English.pdf" class="image fit"><img src="" alt=""></a>
 
 Education
