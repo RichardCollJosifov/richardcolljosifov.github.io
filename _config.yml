@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Richard Coll Josifov"
   avatar           : "profile.png"
-  bio              : <p class="text-justify">"My interests lie in applied mathematics and mathematical statistics."</p>
+  bio              : "My interests lie in applied mathematics and mathematical statistics."
   location         : "Stockholm · Barcelona"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
