@@ -28,4 +28,10 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 
 </div>
 
-<div class="column"><h2>Education</h2></div>
+<div class="column"><h2>Education</h2>
+<ul>
+  <li>MSc. Applied and Computational Mathematics</li>
+  <li>BSc. Electrical Engineering</li>
+</ul>
+
+</div>
