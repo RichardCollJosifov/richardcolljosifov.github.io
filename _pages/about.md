@@ -17,8 +17,6 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 </p>
 
 
-<div class="row">
   <div class="column"> <h2>Interests</h2>
 </div>
   <div class="column">Education</div>
-</div>
