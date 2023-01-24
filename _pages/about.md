@@ -1,8 +1,3 @@
-.column {
-float: left;
-width: 50%;
-}
-
 ---
 permalink: /
 title: ""
@@ -23,6 +18,5 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 
 
 
-  <div class="column"> <h2>Interests</h2>
-</div>
-  <div class="column">Education</div>
+<div class="column"> <h2>Interests</h2></div>
+<div class="column"><h2>Education</h2></div>
