@@ -30,8 +30,8 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 
 <div class="column"><h2>Education</h2>
 <ul>
-  <li>MSc. Applied and Computational Mathematics<br/><small><small>KTH Royal Institute of Technology</small></small><br/></li>
-  <li>BSc. Electrical Engineering</li>
+  <li>MSc. Applied and Computational Mathematics,KTH Royal Institute of Technology, 2022-2024</li>
+  <li>BSc. Electrical Engineering, Universitat Politècnica de Catalunya, 2018-2022</li>
 </ul>
 
 </div>
