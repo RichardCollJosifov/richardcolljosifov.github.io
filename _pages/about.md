@@ -18,5 +18,14 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 
 
 
-<div class="column"> <h2>Interests</h2></div>
+<div class="column"> <h2>Interests</h2>
+<ul>
+  <li>Mathematical Statistics</li>
+  <li>Applied Mathematics</li>
+  <li>Statistical Learning</li>
+</ul>
+
+
+</div>
+
 <div class="column"><h2>Education</h2></div>
