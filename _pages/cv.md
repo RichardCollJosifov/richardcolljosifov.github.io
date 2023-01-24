@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="https://richardcolljosifov.github.io/CV_English.pdf" type="application/pdf" width="100%" height="100px" />. 
+<embed src="https://richardcolljosifov.github.io/CV_English.pdf" type="application/pdf" width="100%" height="100px" /> 
