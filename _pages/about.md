@@ -21,6 +21,7 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 <div class="column"> <h2>Interests</h2>
 <ul>
   <li>Mathematical Statistics</li>
+  <li>Probability Theory</li>
   <li>Applied Mathematics</li>
   <li>Statistical Learning</li>
 </ul>
