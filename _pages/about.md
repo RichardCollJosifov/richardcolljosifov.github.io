@@ -11,7 +11,7 @@ About me
 ======
 <p class="text-justify">
 
-Hi, I am a first year MSc student in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. I am specializing in "Mathematics of Data Science". I intend to do a PhD once I finish my MSc, in particular in the areas of mathematical statistics, applied mathematics and the mathematical foundations of machine learning.  <P></p>
+Hi, I am a first year MSc student in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. I am specializing in "Mathematics of Data Science". I intend to do a PhD once I finish my MSc, in particular in the areas of mathematical statistics, probability theory and the mathematical foundations of machine learning.  <P></p>
 <p class="text-justify">
 Before the masters I completed a four year BSc in Electrical Engineering focusing in Systems, Control and Robotics at the Universitat Politècnica de Catalunya in Barcelona, Spain, graduating first of the 2021/2022 promotion. I did my bachelor's thesis about deep learning based computer vision for aerial view street object detection and classification, which led to a publication at the conference "Jornadas de Automática 2022" organized by the Spanish Automatic Control Comitee.
 </p>
@@ -22,7 +22,6 @@ Before the masters I completed a four year BSc in Electrical Engineering focusin
 <ul>
   <li>Mathematical Statistics</li>
   <li>Probability Theory</li>
-  <li>Applied Mathematics</li>
   <li>Statistical Learning</li>
 </ul>
 
