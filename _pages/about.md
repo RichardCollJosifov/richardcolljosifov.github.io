@@ -11,19 +11,13 @@ About me
 ======
 <p class="text-justify">
 
-Hi, I am a second year MSc student in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. I am specializing in "Mathematics of Data Science". I intend to do a PhD once I finish my MSc, and in particular I am intersted in random graphs, mathematical statistics and probability in general.  <P></p>
+Hi, I am a final year MSc student in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. I am specializing in "Mathematics of Data Science", and will be graduating by late April of 2024.  <P></p>
 <p class="text-justify">
 Before the masters I completed a four year BSc in Electrical Engineering focusing in Systems, Control and Robotics at the Universitat Politècnica de Catalunya in Barcelona, Spain, graduating first of the 2021/2022 promotion. I did my bachelor's thesis about deep learning based computer vision for aerial view street object detection and classification, which led to a publication at the conference "Jornadas de Automática 2022" organized by the Spanish Automatic Control Comitee.
 </p>
 
 
 
-<div class="column"> <h2>Interests</h2>
-<ul>
-  <li>Random Graphs</li>
-  <li>Mathematical Statistics</li>
-  <li>Probability Theory</li>
-</ul>
 
 
 </div>
