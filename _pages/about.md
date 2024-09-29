@@ -24,7 +24,7 @@ Before that I did a MSc in Applied and Computational Mathematics at KTH Royal In
 
 <div class="column"><h2>Education</h2>
 <ul>
-  <li>PhD Applied Mathematics, Universitat Politècnica de Catalunya - Universitat Pompeu Fabra, Barcelona
+  <li>PhD Applied Mathematics, <br><small>Universitat Politècnica de Catalunya - Universitat Pompeu Fabra, Barcelona</small></li>
   <li>MSc. Applied and Computational Mathematics, 2022-2024 <br><small>KTH Royal Institute of Technology, Stockholm</small></li>
   <li>BSc. Electrical Engineering, 2018-2022 <br><small>Universitat Politècnica de Catalunya, Barcelona</small> </li>
 </ul>
