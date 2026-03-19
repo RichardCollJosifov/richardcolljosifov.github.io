@@ -5,7 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About me
+===
 <div class="two-columns">
 
 <div class="left-column">
