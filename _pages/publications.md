@@ -1,18 +1,19 @@
 ---
 layout: archive
-title: 
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# Preprints 
+## Preprints 
 <div class="column"><h2></h2>
 <ol reversed>
   <li> </li>
 </ol>
 
 
-# Conference papers
+
+## Conference papers
 
 <div class="column"><h2></h2>
 <ol reversed>
