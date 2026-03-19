@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<details class="accordion">
+<details class="accordion" open>
   <summary>2026</summary>
   <div class="content">
     <ul>
@@ -14,7 +14,7 @@ author_profile: true
   </div>
 </details>
 
-<details class="accordion">
+<details class="accordion" open>
   <summary>2025</summary>
   <div class="content">
     <ul>
