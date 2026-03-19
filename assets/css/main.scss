@@ -70,3 +70,19 @@
 $primary-color: #2c3e50; // choose your color
 $masthead-background-color: #2c3e50;
 $masthead-link-color: #ffffff;
+
+.masthead,
+.greedy-nav {
+  background-color: #2c3e50 !important;
+}
+
+.greedy-nav a,
+.masthead a {
+  color: white !important;
+}
+
+/* optional: hover effect */
+.greedy-nav a:hover,
+.masthead a:hover {
+  color: #f1c40f !important;
+}
