@@ -3,9 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-sidebar:
-  title: "Upcoming Travel"
-  text: "✈️ **April 2026** — Paris<br/>✈️ **May 2026** — Zurich<br/>✈️ **June 2026** — Barcelona"
 redirect_from: 
   - /about/
   - /about.html
