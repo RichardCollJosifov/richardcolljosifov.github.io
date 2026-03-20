@@ -11,9 +11,7 @@ redirect_from:
 <div class="left-column">
 
 <p class="text-justify">
-Hi, I am a PhD student in Applied Mathematics at the [Geometric, Algebraic and Probabilistic Combinatorics research group](https://gapcomb.upc.edu/en)
-  
-  <a href="https://gapcomb.upc.edu/en">Geometric, Algebraic and Probabilistic Combinatorics research group</a> at Universitat Politècnica de Catalunya and at the <a href=https://www.upf.edu/web/statistics-group>Statistics and Probability research group</a> at Universitat Pompeu Fabra, supervised by <a href=https://www.upf.edu/web/gabor-lugosi>Gábor Lugosi</a> and <a href=https://web.mat.upc.edu/juan.jose.rue/>Juanjo Rué</a>. My research focuses in discrete probability, in particular random graphs and combinatorial statistics. I am currently doing research in network archaeology problems as well as topics within random maps.
+Hi, I am a PhD student in Applied Mathematics at the <a href="https://gapcomb.upc.edu/en">Geometric, Algebraic and Probabilistic Combinatorics research group</a> at Universitat Politècnica de Catalunya and at the <a href="https://www.upf.edu/web/statistics-group">Statistics and Probability research group</a> at Universitat Pompeu Fabra, supervised by <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a> and <a href="https://web.mat.upc.edu/juan.jose.rue/">Juanjo Rué</a>. My research focuses in discrete probability, in particular random graphs and combinatorial statistics. I am currently doing research in network archaeology problems as well as topics within random maps.
 </p>
 
 <p class="text-justify">
