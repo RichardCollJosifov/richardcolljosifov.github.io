@@ -15,26 +15,22 @@ Hi, I am a PhD student in Applied Mathematics at the <a href="https://gapcomb.up
 </p>
 
 <p class="text-justify">
-Before that I did a MSc in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. And before that, I completed a BSc in Electrical Engineering at Universitat Politècnica de Catalunya in Barcelona, Spain.
+Before that I did a MSc in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden (2022-2024). And before that, I completed a BSc in Electrical Engineering at Universitat Politècnica de Catalunya in Barcelona, Spain (2018-2022).
 </p>
 
-<h2>Education</h2>
+<h2>News</h2>
 
 <ul>
-<li>
-PhD Applied Mathematics, 2024-currently<br>
-<small>Universitat Politècnica de Catalunya - Universitat Pompeu Fabra, Barcelona</small>
-</li>
+<li> </li>
+<li> I will be visiting Luc Devroye again at McGill University 🇨🇦 in March 2026.</li>
 
-<li>
-MSc. Applied and Computational Mathematics, 2022–2024<br>
-<small>KTH Royal Institute of Technology, Stockholm</small>
-</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> I will be visiting Luc Devroye at McGill University 🇨🇦 in November 2024.</li>
 
-<li>
-BSc. Electrical Engineering, 2018–2022<br>
-<small>Universitat Politècnica de Catalunya, Barcelona</small>
-</li>
+<li> </li>
 </ul>
 
 </div>
