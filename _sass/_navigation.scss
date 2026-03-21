@@ -323,10 +323,11 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: #333 !important; /* This forces the text to be dark grey */
 
     &:hover {
       text-decoration: underline;
+      color: #000 !important; /* Black on hover/tap */
     }
   }
 
