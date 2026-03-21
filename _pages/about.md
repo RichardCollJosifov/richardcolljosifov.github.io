@@ -21,9 +21,8 @@ Before that I did a MSc in Applied and Computational Mathematics at KTH Royal In
 <h2>News</h2>
 
 <ul>
-<li> </li>
+<li> I will be going to Barbados🇧🇧 at the end of March 2025 to attend the <a href="https://problab.ca/bellairs/">Probability and Combinatorics: Twentieth annual workshop.</a> </li>
 <li> I will be visiting Luc Devroye again at McGill University 🇨🇦 in March 2026.</li>
-
 <li> </li>
 <li>I gave my first talk in September 2025 at the <a href="https://www.dmg.tuwien.ac.at/randnet2025/">RandNet Workshop on Random Discrete Structures</a> about centrality measures in random recursive trees🌳.</li>
 <li> </li>
