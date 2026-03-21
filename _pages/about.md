@@ -25,9 +25,9 @@ Before that I did a MSc in Applied and Computational Mathematics at KTH Royal In
 <li> I will be visiting Luc Devroye again at McGill University 🇨🇦 in March 2026.</li>
 
 <li> </li>
+<li>I gave my first talk in September 2025 at the <a href="https://www.dmg.tuwien.ac.at/randnet2025/">RandNet Workshop on Random Discrete Structures</a> about centrality measures in random recursive trees🌳.</li>
 <li> </li>
-<li> </li>
-<li> </li>
+<li> I attended the <a href="https://davidgeldbach.wixsite.com/website"> Oxford Probability Workshop: Random Discrete Structures </a> in March 2025. I won second prize 🥈 at the 3-minute thesis competition! </li>
 <li> I will be visiting Luc Devroye at McGill University 🇨🇦 in November 2024.</li>
 
 <li> </li>
