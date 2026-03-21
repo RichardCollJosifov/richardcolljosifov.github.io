@@ -23,7 +23,7 @@ Before that I did a MSc in Applied and Computational Mathematics at KTH Royal In
 <ul>
 <li> I will be going to Barbados🇧🇧 at the end of March 2025 to attend the <a href="https://problab.ca/bellairs/">Probability and Combinatorics: Twentieth annual workshop.</a> </li>
 <li> I will be visiting Luc Devroye again at McGill University 🇨🇦 in March 2026.</li>
-<li> </li>
+<li> Busy term! I am teaching 👨‍🏫 the Discrete Mathematics and Optimization course at UPC in the fall term of 2025.</li>
 <li>I gave my first talk in September 2025 at the <a href="https://www.dmg.tuwien.ac.at/randnet2025/">RandNet Workshop on Random Discrete Structures</a> about centrality measures in random recursive trees🌳.</li>
 <li> </li>
 <li> I attended the <a href="https://davidgeldbach.wixsite.com/website"> Oxford Probability Workshop: Random Discrete Structures </a> in March 2025. I won second prize 🥈 at the 3-minute thesis competition! </li>
