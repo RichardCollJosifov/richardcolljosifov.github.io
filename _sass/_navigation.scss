@@ -431,3 +431,26 @@
     }
   }
 }
+
+/* Force Mobile Navigation Visibility */
+.nav__items {
+  background-color: #fff !important; /* Ensure background is white */
+  
+  li a {
+    color: #333 !important;      /* Force text to dark grey */
+    opacity: 1 !important;        /* Ensure it's not faded */
+    display: block !important;
+    padding: 10px !important;
+  }
+
+  li a:hover, 
+  li a:active {
+    color: #000 !important;      /* Black when touched */
+    background-color: #f0f0f0 !important; 
+  }
+}
+
+/* Specific fix for the 'Air' skin masthead on mobile */
+.masthead__menu-item a {
+  color: #333 !important;
+}
