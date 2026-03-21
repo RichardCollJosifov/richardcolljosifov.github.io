@@ -86,3 +86,18 @@ $masthead-link-color: #ffffff;
 .masthead a:hover {
   color: #f1c40f !important;
 }
+
+/* Fix for "Air" skin mobile navigation visibility */
+.nav__items a {
+  color: #333333 !important; /* Forces dark text on the white background */
+  display: block;
+  padding: 0.5rem 1rem;
+}
+
+/* Ensure the text stays visible and dark when tapped/active */
+.nav__items a:hover, 
+.nav__items a:focus,
+.nav__items a:active {
+  color: #000000 !important;
+  background-color: #f2f2f2 !important; /* Slight grey background highlight */
+}
