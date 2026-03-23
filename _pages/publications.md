@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints 
 <ol reversed>
-  <li> </li>
+  <li>Richard Coll Josifov, Luc Devroye and Gábor Lugosi. "A study of centrality measures in random recursive trees", arXiv preprint, 2026. <a href="https://arxiv.org/abs/2603.19493">[pdf]</a> </li>
 </ol>
 
 
