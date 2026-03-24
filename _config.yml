@@ -182,7 +182,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  researc:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
