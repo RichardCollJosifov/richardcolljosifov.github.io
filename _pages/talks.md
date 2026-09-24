@@ -7,7 +7,8 @@ author_profile: true
 
 <div class="column"><h2></h2>
 <ul>
-  <li> <a href="https://www.dmg.tuwien.ac.at/randnet2025/">RandNet Workshop on Random Discrete Structures</a>, September 2025, TU Wien. Contributed talk. </li>
+  <li> <a href="https://lmbp.uca.fr/stflour/">54th Probability Summer School Saint-Flour</a>, July 2026, Saint-Flour, France. Contributed talk. 
+  <li> <a href="https://www.dmg.tuwien.ac.at/randnet2025/">RandNet Workshop on Random Discrete Structures</a>, September 2025, TU Wien, Austria. Contributed talk. </li>
 </ul>
 
 <h2>Visits</h2>
