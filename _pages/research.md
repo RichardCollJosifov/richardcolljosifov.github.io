@@ -7,16 +7,19 @@ author_profile: true
 <h2>Preprints</h2>
 
 <div class="pub-card">
-  <div class="pub-top">
+  <div class="pub-top" style="margin-bottom: 0.3rem;">
     <span class="pub-type">PREPRINT</span>
     <span class="pub-year">2026</span>
   </div>
 
-  <h3 class="pub-title">
-    <a href="https://arxiv.org/abs/2603.19493">
-      A study of centrality measures in random recursive trees
-    </a>
-  </h3>
+  <div class="pub-title"
+     role="heading"
+     aria-level="3"
+     style="margin: 0 0 0.5rem 0; padding: 0;">
+  <a href="https://arxiv.org/abs/2603.19493">
+    A study of centrality measures in random recursive trees
+  </a>
+</div>
 
   <p class="pub-authors">
     Richard Coll Josifov,
