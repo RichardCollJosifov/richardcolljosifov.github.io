@@ -101,3 +101,142 @@ $masthead-link-color: #ffffff;
   color: #000000 !important;
   background-color: #f2f2f2 !important; /* Slight grey background highlight */
 }
+
+/* ==================================
+   TRAVEL TIMELINE
+   ================================== */
+
+.travel-timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 3rem;
+}
+
+/* Continuous vertical line */
+.travel-timeline::before {
+  content: "";
+  position: absolute;
+  left: 12px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #d9e2e9;
+}
+
+/* Year headings */
+.page__content .travel-year {
+  position: relative;
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin: 2rem 0 1.2rem;
+  padding: 0;
+  border-bottom: none;
+}
+
+.travel-year:first-child {
+  margin-top: 0;
+}
+
+/* Larger dots for years */
+.travel-year::before {
+  content: "";
+  position: absolute;
+  left: -41px;
+  top: 0.35em;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #2980b9;
+  box-shadow: 0 0 0 4px #e6f2f9;
+}
+
+/* Travel entries */
+.travel-entry {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+/* Smaller dots for trips */
+.travel-entry::before {
+  content: "";
+  position: absolute;
+  left: -40px;
+  top: 1.3rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #2980b9;
+  box-shadow: 0 0 0 3px #e6f2f9;
+}
+
+/* Cards */
+.travel-card {
+  background: #f8fafc;
+  border: 1px solid #e4eaf0;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.travel-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+}
+
+/* Dates */
+.travel-date {
+  display: block;
+  font-size: 0.75rem;
+  color: #2980b9;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.35rem;
+}
+
+/* Locations */
+.page__content .travel-card h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+  padding: 0;
+  border: none;
+}
+
+/* Descriptions */
+.travel-card p {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  margin: 0 0 0.75rem;
+}
+
+/* Category labels */
+.travel-tag {
+  display: inline-block;
+  background: #e7f2fa;
+  color: #2775a2;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.25rem 0.7rem;
+  border-radius: 20px;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+  .travel-timeline {
+    padding-left: 2.5rem;
+  }
+
+  .travel-year::before {
+    left: -33px;
+  }
+
+  .travel-entry::before {
+    left: -32px;
+  }
+
+  .travel-card {
+    padding: 0.9rem 1rem;
+  }
+}
