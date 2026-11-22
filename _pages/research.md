@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 <h2>Preprints</h2>
 
 <div class="pub-card">
