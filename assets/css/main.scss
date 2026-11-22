@@ -240,3 +240,41 @@ $masthead-link-color: #ffffff;
     padding: 0.9rem 1rem;
   }
 }
+
+
+/* ==================================
+   FIX TIMELINE DOT ALIGNMENT
+   ================================== */
+
+.travel-timeline {
+  --travel-line-x: 12px;
+  --travel-indent: 3rem;
+  padding-left: var(--travel-indent);
+}
+
+/* Vertical line */
+.travel-timeline::before {
+  left: var(--travel-line-x);
+}
+
+/* Center the larger year dots */
+.travel-year::before {
+  left: calc(
+    var(--travel-line-x) - var(--travel-indent) - 7px
+  );
+}
+
+/* Center the smaller travel dots */
+.travel-entry::before {
+  left: calc(
+    var(--travel-line-x) - var(--travel-indent) - 6px
+  );
+}
+
+/* Keep alignment correct on mobile */
+@media (max-width: 600px) {
+  .travel-timeline {
+    --travel-indent: 2.5rem;
+  }
+}
+
