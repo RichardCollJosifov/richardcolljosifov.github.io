@@ -39,14 +39,12 @@ author_profile: true
       </div>
       <div class="talk-title"
            role="heading" aria-level="3">
-        Centrality measures in random recursive trees:
-        rank of the root and index of the centroid
-      </div>
-      <div class="talk-event">
         <a href="https://www.dmg.tuwien.ac.at/randnet2025/">
           RandNet Workshop on Random Discrete Structures
         </a>
-        · TU Wien, Austria
+      </div>
+      <div class="talk-event">
+        TU Wien, Austria
       </div>
     </article>
 
