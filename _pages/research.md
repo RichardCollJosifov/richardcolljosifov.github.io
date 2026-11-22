@@ -7,7 +7,6 @@ author_profile: true
 <h2>Preprints</h2>
 
 <div class="pub-card">
-
   <div class="pub-top">
     <span class="pub-type">PREPRINT</span>
     <span class="pub-year">2026</span>
@@ -20,7 +19,7 @@ author_profile: true
   </h3>
 
   <p class="pub-authors">
-    <strong>Richard Coll Josifov</strong>,
+    Richard Coll Josifov,
     <a href="https://luc.devroye.org/">Luc Devroye</a>
     and
     <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a>
@@ -45,14 +44,7 @@ author_profile: true
     <summary>Abstract</summary>
     <div class="pub-abstract-text">
       <p>
-        We investigate five classical centrality measures
-        in uniform random recursive trees: Jordan, rumor,
-        betweenness, degree, and closeness centralities.
-        Motivated by network archaeology, we study the
-        relationship between vertex centrality and the
-        history of a growing tree, including root
-        centrality, rankings, arrival indices and
-        persistence.
+        We investigate the behaviour of five classical centrality measures--Jordan, rumor, betweenness, degree, and closeness centralities--in the setting of uniform random recursive trees. Motivated by applications in network archaeology, we focus on two fundamental questions: (i) the birth index (time of arrival) of the most central vertex, and (ii) the relative centrality of the root. We quantify the probability that the root is the most central vertex, analyze its expected rank under each centrality measure, and determine the expected birth index of a central vertex. In addition, we characterize the typical size of the set of top-ranked vertices that contains the root with high probability. Finally, for each centrality notion, we study the persistence properties of the center and the asymptotic behaviour of the root's rank.
       </p>
     </div>
   </details>
