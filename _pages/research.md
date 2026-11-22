@@ -1,19 +1,54 @@
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
+<h2>Preprints</h2>
 
-## Preprints 
-<ol reversed>
-  <li>Richard Coll Josifov, <a href="https://luc.devroye.org/">Luc Devroye</a> and <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a>. <a href="https://arxiv.org/abs/2603.19493">"A study of centrality measures in random recursive trees"</a>, to appear, Annals of Applied Probability, 2026. </li>
-</ol>
+<div class="pub-card">
 
+  <div class="pub-top">
+    <span class="pub-type">PREPRINT</span>
+    <span class="pub-year">2026</span>
+  </div>
 
+  <h3 class="pub-title">
+    <a href="https://arxiv.org/abs/2603.19493">
+      A study of centrality measures in random recursive trees
+    </a>
+  </h3>
 
-## Conference papers
+  <p class="pub-authors">
+    <strong>Richard Coll Josifov</strong>,
+    <a href="https://luc.devroye.org/">Luc Devroye</a>
+    and
+    <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a>
+  </p>
 
-<ol reversed>
-  <li>Richard Coll Josifov, Albert Masip Alvarez and David Lavèrnia Ferrer. "Deep learning classification applied to traffic accidents prediction", XLIII JORNADAS AUTOMÁTICA, 2022. <a href="https://ruc.udc.es/dspace/handle/2183/31411" target="_blank">[journal]</a> </li>
-</ol>
+  <p class="pub-venue">
+    To appear in Annals of Applied Probability
+  </p>
+
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2603.19493"
+       target="_blank" rel="noopener noreferrer">
+      arXiv ↗
+    </a>
+    <a href="https://arxiv.org/pdf/2603.19493"
+       target="_blank" rel="noopener noreferrer">
+      PDF ↗
+    </a>
+  </div>
+
+  <details class="pub-abstract">
+    <summary>Abstract</summary>
+    <div class="pub-abstract-text">
+      <p>
+        We investigate five classical centrality measures
+        in uniform random recursive trees: Jordan, rumor,
+        betweenness, degree, and closeness centralities.
+        Motivated by network archaeology, we study the
+        relationship between vertex centrality and the
+        history of a growing tree, including root
+        centrality, rankings, arrival indices and
+        persistence.
+      </p>
+    </div>
+  </details>
+
+</div>
