@@ -481,3 +481,15 @@ $masthead-link-color: #ffffff;
     padding: 0.75rem;
   }
 }
+
+/* Reduce spacing between publication type and title */
+
+.pub-card .pub-top {
+  margin-bottom: 0.25rem;
+}
+
+.page__content .pub-card .pub-title {
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem;
+  padding-top: 0;
+}
