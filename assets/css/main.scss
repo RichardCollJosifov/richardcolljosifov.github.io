@@ -493,3 +493,23 @@ $masthead-link-color: #ffffff;
   margin-bottom: 0.5rem;
   padding-top: 0;
 }
+
+/* Make coauthor website links clearly visible */
+
+.pub-card .pub-authors {
+  opacity: 1;
+}
+
+.pub-card .pub-authors a {
+  color: #2980b9;
+  text-decoration: underline;
+  text-decoration-color: rgba(41,128,185,0.45);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color 0.2s ease;
+}
+
+.pub-card .pub-authors a:hover {
+  color: #165a85;
+  text-decoration-color: currentColor;
+}
