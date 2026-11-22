@@ -32,11 +32,11 @@ author_profile: true
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2603.19493"
        target="_blank" rel="noopener noreferrer">
-      arXiv ↗
+      arXiv 
     </a>
     <a href="https://arxiv.org/pdf/2603.19493"
        target="_blank" rel="noopener noreferrer">
-      PDF ↗
+      PDF 
     </a>
   </div>
 
