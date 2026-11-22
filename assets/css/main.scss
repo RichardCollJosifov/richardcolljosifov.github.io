@@ -513,3 +513,15 @@ $masthead-link-color: #ffffff;
   color: #165a85;
   text-decoration-color: currentColor;
 }
+
+/* Fix excessive space above publication titles */
+
+.pub-card .pub-top {
+  margin-bottom: 0.35rem !important;
+}
+
+.page__content .pub-card h3.pub-title {
+  margin: 0 0 0.5rem 0 !important;
+  padding: 0 !important;
+  line-height: 1.4;
+}
