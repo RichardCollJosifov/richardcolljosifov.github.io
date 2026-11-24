@@ -11,6 +11,20 @@ author_profile: true
 
   <section class="talks-group">
     <h2 class="talks-year">2026</h2>
+        <article class="talk-entry">
+      <div class="talk-date">
+        NOVEMBER 2026 · INVITED TALK
+      </div>
+      <div class="talk-title"
+           role="heading" aria-level="3">
+        <a href="https://www.dmg.tuwien.ac.at/nfn/agdm.html">
+          Arbeitsgemeinschaft Diskrete Mathematik Seminar
+        </a>
+      </div>
+      <div class="talk-event">
+        TU Wien and University of Vienna
+      </div>
+    </article>
     <article class="talk-entry">
       <div class="talk-date">
         JULY 2026 · CONTRIBUTED TALK
@@ -44,7 +58,7 @@ author_profile: true
         </a>
       </div>
       <div class="talk-event">
-        TU Wien, Austria
+        TU Wien
       </div>
     </article>
 
