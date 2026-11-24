@@ -2,110 +2,46 @@
 title: "About me"
 permalink: /
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
+<div class="two-columns">
 
-<!-- ==================================
-     INTRODUCTION
-     ================================== -->
+<div class="left-column">
 
-<div class="home-intro">
+<p class="text-justify">
+Hi, I am a PhD student in Applied Mathematics at the <a href="https://gapcomb.upc.edu/en">Geometric, Algebraic and Probabilistic Combinatorics research group</a> at Universitat Politècnica de Catalunya and at the <a href="https://www.upf.edu/web/statistics-group">Statistics and Probability research group</a> at Universitat Pompeu Fabra, supervised by <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a> and <a href="https://web.mat.upc.edu/juan.jose.rue/">Juanjo Rué</a>. I am interested in discrete probability, particularly in random graphs and combinatorial statistics. I am currently doing research in network archaeology problems as well as topics within random maps.
+</p>
 
-  <p>
-    Hi, I am a PhD student in Applied Mathematics at the <a href="https://gapcomb.upc.edu/en">Geometric, Algebraic and Probabilistic Combinatorics research group</a> at Universitat Politècnica de Catalunya and at the <a href="https://www.upf.edu/web/statistics-group">Statistics and Probability research group</a> at Universitat Pompeu Fabra, supervised by <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a> and <a href="https://web.mat.upc.edu/juan.jose.rue/">Juanjo Rué</a>.
-    I am interested in discrete probability, particularly in random graphs and combinatorial statistics. I am currently doing research in network archaeology problems as well as topics within random maps.
-  </p>
-
-  <!-- Research interests -->
-
-  <div class="home-topics">
-    <span class="home-topic">Discrete probability</span>
-    <span class="home-topic">Random graphs</span>
-    <span class="home-topic">Combinatorial statistics</span>
-    <span class="home-topic">Network archaeology</span>
-    <span class="home-topic">Random maps</span>
-  </div>
-
-</div>
-
-
-<!-- ==================================
-     ACADEMIC BACKGROUND
-     ================================== -->
-
-<h2>Background</h2>
-
-<div class="home-education">
-
-  <p>
-    Before that I did a MSc in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden (2022-2024). And before that, I completed a BSc in Electrical Engineering at Universitat Politècnica de Catalunya in Barcelona, Spain (2018-2022).
-  </p>
-
-</div>
-
-
-<!-- ==================================
-     FEATURED PUBLICATION
-     ================================== -->
-
-<div class="home-featured">
-
-  <div class="home-featured-label">
-    FEATURED PUBLICATION · 2026
-  </div>
-
-  <div class="home-featured-title">
-    <a href="https://arxiv.org/abs/2603.19493">
-      A study of centrality measures in random recursive trees
-    </a>
-  </div>
-
-  <div class="home-featured-links">
-    <a href="https://arxiv.org/abs/2603.19493">
-      arXiv
-    </a>
-    <a href="/research/">
-      Research
-    </a>
-  </div>
-
-</div>
-
-
-<!-- ==================================
-     NEWS
-     ================================== -->
+<p class="text-justify">
+Before that I did a MSc in Applied and Computational Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden (2022-2024). And before that, I completed a BSc in Electrical Engineering at Universitat Politècnica de Catalunya in Barcelona, Spain (2018-2022).
+</p>
 
 <h2>News</h2>
 
-<ul class="home-news-list">
-
+<ul>
   <li>I'm thrilled to announce that my first paper, <a href="https://arxiv.org/abs/2603.19493">A study of centrality measures in random recursive trees</a>, is up online on arXiv 🥳!</li>
 
   <li> I will be going to Barbados 🇧🇧 at the end of March 2026 to attend the <a href="https://problab.ca/bellairs/">Probability and Combinatorics: Twentieth annual workshop.</a> </li>
 
   <li> I will be visiting Luc Devroye again at McGill University 🇨🇦 in March 2026.</li>
-
 </ul>
 
-
-<!-- Older news -->
-
-<details class="home-older-news">
-
-  <summary>
+<details style="margin-top: 15px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: 600; margin-bottom: 10px;">
     Older news (2024–2025)
   </summary>
 
-  <ul class="home-news-list">
+  <ul>
     <li> Busy term! I am teaching 👨‍🏫 the Discrete Mathematics and Optimization course at UPC in the fall term of 2025.</li>
     <li>I gave my first talk in September 2025 at the <a href="https://www.dmg.tuwien.ac.at/randnet2025/">RandNet Workshop on Random Discrete Structures</a> about centrality measures in random recursive trees🌳.</li>
     <li> I have had some busy months! I attended the <a href="https://www.slmath.org/workshops/1098">SLMath Workshop: Detection, Estimation, and Reconstruction in Networks</a> in April 2025, and then I attended the <a href="https://gapcomb.upc.edu/en/seminar-en/archive/archive-gapcomb-workshop/6th-gapcomb-workshop">6th Workshop on Geometric, Algebraic and Probabilistic Combinatorics </a> in June 2025.</li>
     <li> I attended the <a href="https://davidgeldbach.wixsite.com/website"> Oxford Probability Workshop: Random Discrete Structures </a> in March 2025. I won second prize 🥈 at the 3-minute thesis competition! </li>
     <li> I will be visiting Luc Devroye at McGill University 🇨🇦 in November 2024.</li>
-
   </ul>
-
 </details>
+</div>
+
+
+</div>
