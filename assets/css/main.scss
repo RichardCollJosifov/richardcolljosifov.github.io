@@ -756,3 +756,81 @@ $masthead-link-color: #ffffff;
     font-size: 0.82rem;
   }
 }
+
+/* ==========================================
+   TRAVEL CATEGORY FILTERS
+   ========================================== */
+
+.travel-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+/* Hide filters until JavaScript initializes */
+.travel-filters[hidden] {
+  display: none !important;
+}
+
+/* Individual filter buttons */
+.travel-filter {
+  appearance: none;
+  border: 1px solid #dce6ec;
+  border-radius: 20px;
+  padding: 0.4rem 0.9rem;
+  background: #f3f7fa;
+  color: #416173;
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1.4;
+  cursor: pointer;
+  transition: background 0.2s ease,
+              color 0.2s ease,
+              border-color 0.2s ease;
+}
+
+/* Hover effect */
+.travel-filter:hover {
+  border-color: #2980b9;
+  color: #2980b9;
+  background: #eaf3f9;
+}
+
+/* Selected filter */
+.travel-filter.is-active,
+.travel-filter.is-active:hover {
+  background: #2980b9;
+  border-color: #2980b9;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* Keyboard accessibility */
+.travel-filter:focus-visible {
+  outline: 2px solid #2980b9;
+  outline-offset: 3px;
+}
+
+/* Hide non-matching trips and empty years */
+.travel-entry[hidden],
+.travel-year[hidden] {
+  display: none !important;
+}
+
+/* Correct first visible year's spacing */
+.page__content .travel-year.is-first-visible {
+  margin-top: 0 !important;
+}
+
+/* Mobile layout */
+@media (max-width: 600px) {
+  .travel-filters {
+    gap: 0.4rem;
+  }
+
+  .travel-filter {
+    font-size: 0.73rem;
+    padding: 0.35rem 0.7rem;
+  }
+}
