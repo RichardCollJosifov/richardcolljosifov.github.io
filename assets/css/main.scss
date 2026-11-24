@@ -834,3 +834,126 @@ $masthead-link-color: #ffffff;
     padding: 0.35rem 0.7rem;
   }
 }
+
+/* HOMEPAGE — RESEARCH INTERESTS */
+
+.home-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.8rem;
+}
+
+.home-topic {
+  display: inline-block;
+  padding: 0.3rem 0.75rem;
+  border-radius: 20px;
+  color: #2980b9;
+  background: rgba(41,128,185,0.09);
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+/* HOMEPAGE — BACKGROUND */
+
+.home-education {
+  margin: 0.7rem 0 1.8rem;
+}
+
+.home-education-item {
+  display: grid;
+  grid-template-columns: 6rem minmax(0,1fr);
+  gap: 0.8rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(120,140,160,0.16);
+}
+
+.home-education-year {
+  color: #64748b;
+  font-size: 0.8rem;
+}
+
+.home-education-degree {
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+
+.home-education-place {
+  color: #64748b;
+  font-size: 0.82rem;
+  margin-top: 0.2rem;
+}
+
+/* HOMEPAGE — FEATURED PAPER */
+
+.home-featured {
+  border: 1px solid #c8deea;
+  border-radius: 10px;
+  padding: 1.15rem 1.3rem;
+  background: rgba(41,128,185,0.045);
+  margin: 1.8rem 0;
+}
+
+.home-featured-label {
+  color: #2980b9;
+  font-size: 0.73rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.6rem;
+}
+
+.home-featured-title {
+  font-size: 1.05rem;
+  font-weight: 650;
+  line-height: 1.45;
+  margin-bottom: 0.4rem;
+}
+
+.home-featured-authors {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-bottom: 0.7rem;
+}
+
+.home-featured-links {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.83rem;
+}
+
+/* HOMEPAGE — NEWS */
+
+.home-news-list {
+  list-style: none;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.home-news-list > li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid rgba(120,140,160,0.15);
+}
+
+.home-older-news {
+  margin-top: 1rem;
+}
+
+.home-older-news summary {
+  cursor: pointer;
+  color: #2980b9;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+  .home-education-item {
+    grid-template-columns: 5rem minmax(0,1fr);
+    gap: 0.6rem;
+  }
+
+  .home-featured {
+    padding: 1rem;
+  }
+}
