@@ -53,3 +53,55 @@ author_profile: true
   </details>
 
 </div>
+
+<h2>In preparation</h2>
+
+<div class="pub-card">
+  <div class="pub-top" style="margin-bottom: 0.3rem;">
+    <span class="pub-type">In preparation</span>
+    <span class="pub-year">2026+</span>
+  </div>
+
+  <div class="pub-title"
+     role="heading"
+     aria-level="3"
+     style="margin: 0 0 0.5rem 0; padding: 0;"> 
+    Seed recovery in random trees and diffusions on regular trees
+
+</div>
+
+  <p class="pub-authors">
+    Richard Coll Josifov,
+    <a href="https://luc.devroye.org/">Luc Devroye</a>
+    and
+    <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a>
+  </p>
+
+
+</div>
+
+<div class="pub-card">
+  <div class="pub-top" style="margin-bottom: 0.3rem;">
+    <span class="pub-type">In preparation</span>
+    <span class="pub-year">2026+</span>
+  </div>
+
+  <div class="pub-title"
+     role="heading"
+     aria-level="3"
+     style="margin: 0 0 0.5rem 0; padding: 0;"> 
+    Root estimation in a Bethe lattice with noise
+
+</div>
+
+  <p class="pub-authors">
+    Richard Coll Josifov,
+    <a href="https://luc.devroye.org/">Luc Devroye</a>, Georgios Nikolaos Karelas
+    and
+    <a href="https://www.upf.edu/web/gabor-lugosi">Gábor Lugosi</a>
+  </p>
+
+
+</div>
+
+
